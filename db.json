@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Dentist appointment",
+      "day": "March 1st 2022",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Doctors appointment",
+      "day": "March 1st 2022",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Oral appointment",
+      "day": "October 1st 2022",
+      "reminder": true
+    },
+    {
+      "id": 321,
+      "text": "NewTask",
+      "day": "22/11/2022",
+      "reminder": false
+    }
+  ]
+}
